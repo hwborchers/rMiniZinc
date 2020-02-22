@@ -1,3 +1,5 @@
+## MiniZinc Information
+
 **MiniZinc** is a system and (algebraic) modeling language for solving constraint satisfaction and combinatorial optimization problems. The software is free and open-source. There is a graphical user interface *MiniZinc IDE* and several solvers are included. Other free resp. commercial solvers can be used with MiniZinc as a frontend and modeling tool.
 
 ### MiniZinc Software and Documents
