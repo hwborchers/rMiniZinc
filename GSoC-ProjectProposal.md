@@ -62,7 +62,7 @@ It will also be possible to send in user-defined models as text (in the MiniZinc
 
 ## MiniZinc Resources
 
-See [here]() for a list of links to MiniZinc resources like software, documentation, model examples, and related software.
+See [here](MiniZincInformation.md) for a list of links to MiniZinc resources like software, documentation, model examples, and related software.
 
 ## Tests
 
